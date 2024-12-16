@@ -10,3 +10,5 @@ The computer vision models:
 For all the models, the train images and labels were split into 80% training set and 20% validation set.
 
 The models are too large to upload to GitHub, but the training, validation, and testing code can be found in this repository. The code for the HOG + SVM and SIFT + SVM models can be found in the file `SVMs.ipynb`. The code for the Resnet-50 and Mobilenet V2 models can be found in the `PretrainedCNNs.ipynb` file. The custom CNN code can be found in the file `KerasCustomCNN.ipynb`.
+
+The functions to test each model were created in the `test_functions.ipynb` file.
