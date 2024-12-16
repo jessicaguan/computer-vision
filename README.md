@@ -1,4 +1,4 @@
-This project implements 5 computer vision models for mask detection in images and videos.  Implemented methods
+This project implements 5 computer vision models for mask detection in images and videos. The full project details and results can be found in the file `ComputerVisionReport.pdf`
 
 The computer vision models: 
 - Resnet-50
